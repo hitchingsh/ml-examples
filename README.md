@@ -6,7 +6,7 @@ These are Machine Learning examples I have run and and in some cases created to 
 * For our capstone project for this Introduction to Tensorflow 2 class I created a CNN (Convolutional Neural Network) model
 * We classified Street View House Numbers (SVHN) from Stanford's dataset [http://ufldl.stanford.edu/housenumbers/]
 * Note: For students of the Coursera Getting Started with Tensorflow 2 class should not look at this example until after they've completed the class
-[./Tensorflow_2_Class_CNN_Capstone_Project_by_Hamilton_2020_12-3.ipynb]
+[Tensorflow_2_Class_CNN_Capstone_Project_by_Hamilton_2020_12-3.ipynb](./Tensorflow_2_Class_CNN_Capstone_Project_by_Hamilton_2020_12-3.ipynb)
 
 ### Neural Translation Model using Encoder RNN and Decoder RNN
 * For our capstone project for this Coursera Customzing Your Models with Tensorflow 2 class I created this model that translated from English to Germman.
@@ -14,7 +14,7 @@ These are Machine Learning examples I have run and and in some cases created to 
 * This project was for learning purposes and for a production model would require more training data and a more powerful model, such as by adding attention.
 * This example uses data from the Anki dataset [http://www.manythings.org/anki/]
 * Note: students of this Coursera Tensorflow Class: Customizing Your Models with Tensorflow 2 should not look at this example until after they've completed the class. 
-[./Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1-12.ipynb]
+[https://github.com/hitchings/ml-examples/Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1-12.ipynb]
 
 ### BERT GLUE E2E on TPU Notebook
 * This example downloads BERT (Bidirectional Encoder Representations from Transformers) model from tfdev.hub
