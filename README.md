@@ -11,9 +11,9 @@ These are Machine Learning examples I have run and and in some cases created to 
 ### Language Translation Model using Encoder RNN and Decoder RNN
 * I created this model that translated from English to Germman
 * This was the capstone project for the Coursera Customzing Your Models with Tensorflow 2 class 
-* This exercise was designed to teach us the concepts of the Encoder/Decoder seq2seq architectures, in this case using LSTMs (Long Short Term Memory). 
-* This project was for learning purposes and for a production model would require more training data and a more powerful model, such as by adding attention.
-* Current students of this Coursera Tensorflow Class: Customizing Your Models with Tensorflow 2 should not look at this example
+* This project taught us the concepts of the Encoder/Decoder seq2seq architectures, using LSTMs (Long Short Term Memory). 
+* This project was for learning purposes only and not production and is not very accurate 
+* Current students of this Coursera Customizing Your Models with Tensorflow 2 class should not look at this example
 * [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
 
 ### Language Translation Using the T5 Model and HuggingFace Framework
