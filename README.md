@@ -4,7 +4,7 @@ These are Machine Learning examples I have run and and in some cases created to 
 
 ### CNN SVHN Classification
 * For our capstone project for this Introduction to Tensorflow 2 class I created a CNN (Convolutional Neural Network) model
-* We classified Street View House Numbers (SVHN) from Stanford's dataset http://ufldl.stanford.edu/housenumbers/
+* I classified Street View House Numbers (SVHN) from Stanford's dataset http://ufldl.stanford.edu/housenumbers/
 * Note: For students of the Coursera Getting Started with Tensorflow 2 class should not look at this example until after they've completed the class
 * [CNN_SVHN_TF2_Capstone_Project_by_Hamilton_2020_12_3.ipynb](CNN_SVHN_TF2_Capstone_Project_by_Hamilton_2020_12_3.ipynb)
 
@@ -12,15 +12,12 @@ These are Machine Learning examples I have run and and in some cases created to 
 * For our capstone project for this Coursera Customzing Your Models with Tensorflow 2 class I created this model that translated from English to Germman.
 * This exercise was designed to teach us the concepts of the Encoder/Decoder seq2seq architectures, in this case using LSTMs (Long Short Term Memory). 
 * This project was for learning purposes and for a production model would require more training data and a more powerful model, such as by adding attention.
-* This example uses data from the Anki dataset http://www.manythings.org/anki/
 * Note: students of this Coursera Tensorflow Class: Customizing Your Models with Tensorflow 2 should not look at this example until after they've completed the class. 
 * [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
 
 ### Language Translation Using the T5 Model and HuggingFace Framework
-* Translates the same strings as my Capstone project above from English to German except with 100% accuracy
-* Uses the T5 Model (Text-to-Text Transfer Transformer)
-* Uses the HuggingFace Framework which allows you to quickly leverage powerful off-the-shelf models to solve NLP problems
-* This example uses PyTorch but the differences between that and TensorFlow 2.0 are trivial
+* Translates from English to German
+* Translates the same 5 test English strings (all accurately) as my Capstone project above
 * [Language_Translation_Using_the_T5_Model_And_HuggingFace_Framework.ipynb](Language_Translation_Using_the_T5_Model_And_HuggingFace_Framework.ipynb) 
 
 ### BERT GLUE E2E on TPU Notebook
