@@ -17,8 +17,8 @@ These are Machine Learning examples I have run and and in some cases created to 
 * [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
 
 ### Language Translation Using the T5 Model and HuggingFace Framework
-* Translates the same 5 test English strings (all accurately) as my Capstone project above from English to German
-* Translates using the HuggingFace pipeline, and also with slightly lower level calls to the T5 and MarianMT models
+* Translates the same 5 English strings (all accurately) as my Capstone project above from English to German
+* Translates using the HuggingFace pipeline, and with slightly lower level calls to the T5 and MarianMT models
 * [Language_Translation_Using_the_T5_Model_And_HuggingFace_Framework.ipynb](Language_Translation_Using_the_T5_Model_And_HuggingFace_Framework.ipynb) 
 
 ### Sentiment Analysis - Fine Tuning BERT model on IMDB
