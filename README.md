@@ -1,5 +1,5 @@
 # ml-examples
-These are Machine Learning examples I have run and and in some cases created to give you a better understanding of my machine learning understanding. - Hamilton
+These are Machine Learning examples I have created or adapted to give you a better understanding of my machine learning understanding. - Hamilton
 
 
 ### CNN SVHN Classification
