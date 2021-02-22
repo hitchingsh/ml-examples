@@ -27,6 +27,10 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * Trained the BERT model on the IMDB Movie Review dataset to make positive and negative sentiment classification predictions
 * [Sentiment_Analysis_Fine_Tuning_a_BERT_model_on_IMDB.ipynb](Sentiment_Analysis_Fine_Tuning_a_BERT_model_on_IMDB.ipynb)
 
+### Question Answering using BERT, Roberta & Electra Models Pretrained on Squad & Squad 2
+* I adapted these short examples using the HuggingFace API
+* [Question_Answering_Models_BERT_Roberta_Electra_Pretrained_on_Squad2.ipynb](Question_Answering_Models_BERT_Roberta_Electra_Pretrained_on_Squad2.ipynb)
+
 ### BERT GLUE E2E on TPU Notebook
 * This example downloads BERT (Bidirectional Encoder Representations from Transformers) model from tfdev.hub
 * It fine tunes the training on one (any one) of the GLUE (General Language Understanding Evaluation) datasets
