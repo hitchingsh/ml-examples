@@ -37,3 +37,9 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * More info about GLUE datasets can be found at: https://arxiv.org/pdf/1909.13719.pdf
 * This example is copied from: https://www.tensorflow.org/tutorials/text/solve_glue_tasks_using_bert_on_tpu
 * [BERT_Glue_E2E.ipynb](BERT_Glue_E2E.ipynb)
+
+### Live Demo of Blender Chatbot using the RoBERTa Transformer
+* I setup this demo with a modestly improved UI on Google Cloud using Docker
+* Try it out at: https://blenderbot-wg5fqcbcta-uw.a.run.app 
+* Note, this demo uses the 90 million parameter model. The much larger 2.7 billion and 9.4 billion parameters models will produce better conversations and can be run on more expensive hardware.
+* Here's the paper on BlenderBot developed by the Facebook AI team: https://arxiv.org/pdf/2004.13637.pdf 
