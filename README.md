@@ -40,6 +40,6 @@ These are Machine Learning examples I have created or adapted to give you a bett
 
 ### Live Demo of Blender Chatbot using the RoBERTa Transformer
 * I setup this demo with a modestly improved UI on Google Cloud using Docker
-* Try it out at: https://blenderbot-wg5fqcbcta-uw.a.run.app 
+* Try it out at: https://blenderbot-wg5fqcbcta-uw.a.run.app (Can take 30+ seconds for Google Cloud to load docker image in) 
 * Note, this demo uses the 90 million parameter model. The much larger 2.7 billion and 9.4 billion parameters models will produce better conversations and can be run on more expensive hardware.
 * Here's the paper on BlenderBot developed by the Facebook AI team: https://arxiv.org/pdf/2004.13637.pdf 
