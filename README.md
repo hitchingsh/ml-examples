@@ -16,6 +16,12 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * Current students of this Customizing Your Models with Tensorflow 2 class should not look at this
 * [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
 
+### Transformer Model for Language Translation
+* Translates Portugese to English 
+* Implements a Transformer model including attention in Keras / Tensorflow
+* Transformers are the state of the art for Natural Language Processing in Machine Learning
+* [Transformer_Model_for_Language_Translation.ipynb](Transformer_Model_for_Language_Translation.ipynb) 
+
 ### Language Translation Using the T5 Model and HuggingFace Framework
 * Translates the same 5 English strings (all accurately) as my Capstone project above from English to German
 * Translates using the HuggingFace pipeline, and with slightly lower level calls to the T5 and MarianMT models
@@ -42,5 +48,5 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * I setup this demo with a modestly improved UI on Google Cloud using Docker
 * See a Blenderbot [example conversation](sample-blender-conversation.png)
 * Try it out at: https://blenderbot-wg5fqcbcta-uw.a.run.app (Can take 15+ seconds for Google Cloud to load docker image in) 
-* Note, this demo uses the 90 million parameter model. The much larger 2.7 billion and 9.4 billion parameters models will produce better conversations and can be run on more expensive hardware.
-* Here's the paper on BlenderBot developed by the Facebook AI team: https://arxiv.org/pdf/2004.13637.pdf 
+* Note, this demo uses the 90 million parameter small model. The much larger 2.7 billion and 9.4 billion parameters models will produce better conversations and can be run on more expensive hardware.
+* Here's the paper on BlenderBot developed by the Facebook AI team: https://arxiv.org/pdf/2004.13637.pdf* For comparison here's Mitsuki bot from Pandorabots which I did not find as good: https://https://chat.kuki.ai/
