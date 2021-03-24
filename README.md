@@ -1,7 +1,6 @@
 # ml-examples
 These are Machine Learning examples I have created or adapted to give you a better understanding of my machine learning understanding. - Hamilton
 
-
 ### CNN SVHN Classification
 * I created a CNN (Convolutional Neural Network) model to classify Street View House Numbers (SVHN)
 * This was the capstone project for the Coursera class Getting Started with Tensorflow 2 class 
@@ -20,7 +19,7 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * Translates Portugese to English 
 * Implements a Transformer model including attention in Keras / Tensorflow
 * Transformers are the state of the art for Natural Language Processing in Machine Learning
-* [Transformer_Model_for_Language_Translation.ipynb](Transformer_Model_for_Language_Translation.ipynb) 
+* [Transformer_Model_for_Language_Translation.ipynb](Transformer_Model_for_Language_Translation.pdf) [Transformer_Model_for_Language_Translation.ipynb](.ipynb)
 
 ### Language Translation Using the T5 Model and HuggingFace Framework
 * Translates the same 5 English strings (all accurately) as my Capstone project above from English to German
