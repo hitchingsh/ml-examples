@@ -16,7 +16,7 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * Current students of this Customizing Your Models with Tensorflow 2 class should not look at this
 * [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
 
-### Transformer Model for Language Translation
+### Transformer Model Implementation for Language Translation
 * Translates Portugese to English 
 * Implements a Transformer model including attention in Keras / Tensorflow
 * Transformers are the state of the art for Natural Language Processing in Machine Learning
