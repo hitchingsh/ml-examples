@@ -5,7 +5,7 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * I created a CNN (Convolutional Neural Network) model to classify Street View House Numbers (SVHN)
 * This was the capstone project for the Coursera class Getting Started with Tensorflow 2 class 
 * Current students of the Coursera Getting tarted with Tensorflow 2 class should not look at this example 
-* [CNN_SVHN_TF2_Capstone_Project_by_Hamilton_2020_12_3.ipynb](CNN_SVHN_TF2_Capstone_Project_by_Hamilton_2020_12_3.ipynb)
+* [CNN_SVHN_TF2_Capstone_Project_by_Hamilton_2020_12_3.pdf](CNN_SVHN_TF2_Capstone_Project_by_Hamilton_2020_12_3.pdf) [CNN_SVHN_TF2_Capstone_Project_by_Hamilton_2020_12_3.ipynb](.ipynb)
 
 ### Language Translation Model using Encoder RNN and Decoder RNN
 * I created this model that translated from English to Germman
@@ -13,13 +13,13 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * This project taught us Encoder/Decoder seq2seq architectures, using LSTMs (Long Short Term Memory)
 * This project was for learning purposes only and not production
 * Current students of this Customizing Your Models with Tensorflow 2 class should not look at this
-* [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
+* [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.pdf](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.pdf) [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
 
 ### Transformer Model Implementation for Language Translation
 * Translates Portugese to English 
 * Implements a Transformer model including attention in Keras / Tensorflow
 * Transformers are the state of the art for Natural Language Processing in Machine Learning
-* [Transformer_Model_for_Language_Translation.ipynb](Transformer_Model_for_Language_Translation.pdf) [Transformer_Model_for_Language_Translation.ipynb](.ipynb)
+* [Transformer_Model_for_Language_Translation.pdf](Transformer_Model_for_Language_Translation.pdf) [.ipynb](Transformer_Model_for_Language_Translation.ipynb)
 
 ### Language Translation Using the T5 Model and HuggingFace Framework
 * Translates the same 5 English strings (all accurately) as my Capstone project above from English to German
