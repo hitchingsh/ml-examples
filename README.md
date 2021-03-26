@@ -18,6 +18,7 @@ These are Machine Learning examples I have created or adapted to give you a bett
 ### Transformer Model Implementation for Language Translation
 * Translates Portugese to English 
 * Implements a Transformer model including attention in Keras / Tensorflow
+* Creates a custom BERT tokenizer
 * Transformers are the state of the art for Natural Language Processing in Machine Learning
 * [Transformer_Model_for_Language_Translation.pdf](Transformer_Model_for_Language_Translation.pdf) \- [.ipynb](Transformer_Model_for_Language_Translation.ipynb)
 
