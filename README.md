@@ -16,13 +16,12 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * [Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.pdf](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.pdf) \- [.ipynb](Neural_Translation_Model_Capstone_Project_by_Hamilton_2021_1_12.ipynb)
 
 ### Transformer Model Implementation for Language Translation
-* Translates Portugese to English 
-* Implements a Transformer model including attention in Keras / Tensorflow
-* Creates a custom BERT tokenizer
+* Translates Russian to English 
+* Implements a Transformer model including attention in Keras / Tensorflow along with the BERT subword tokenizer
 * Transformers are the state of the art for Natural Language Processing in Machine Learning
-* [Transformer_Model_for_Language_Translation.pdf](Transformer_Model_for_Language_Translation.pdf) \- [.ipynb](Transformer_Model_for_Language_Translation.ipynb)
+* [Russian_Transformer_Model_for_Language_Translation_v2.pdf](Russian_Transformer_Model_for_Language_Translation_v2.pdf) \- [.ipynb](Russian_Transformer_Model_for_Language_Translation_v2.ipynb)
 
-### Language Translation Using the T5 Model and HuggingFace Framework
+### T5 Model and HuggingFace Framework Language Translation
 * Translates the same 5 English strings (all accurately) as my Capstone project above from English to German
 * Translates using the HuggingFace pipeline, and with slightly lower level calls to the T5 and MarianMT models
 * [Language_Translation_Using_the_T5_Model_And_HuggingFace_Framework.ipynb](Language_Translation_Using_the_T5_Model_And_HuggingFace_Framework.ipynb) 
