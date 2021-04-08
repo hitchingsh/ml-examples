@@ -45,7 +45,7 @@ These are Machine Learning examples I have created or adapted to give you a bett
 
 ### Image Segmentation Using U-Net
 * Segments dogs and cats out of images taken from the Oxford IIT Pet Dataset
-* [Image_Segmentation_Using_U_net.pdf](Image_Segmentation_Using_U_net.pdf) - [.ipynb](Image_Segmentation_Using_U_net.ipynb)
+* [Image_Segmentation_Using_U-Net.pdf](Image_Segmentation_Using_U-Net.pdf) - [.ipynb](Image_Segmentation_Using_U-Net.ipynb)
 
 ### Live Demo of Blender Chatbot using the RoBERTa Transformer
 * I setup this demo with a modestly improved UI on Google Cloud using Docker
