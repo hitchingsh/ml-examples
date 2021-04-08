@@ -43,9 +43,13 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * This example is copied from: https://www.tensorflow.org/tutorials/text/solve_glue_tasks_using_bert_on_tpu
 * [BERT_Glue_E2E.ipynb](BERT_Glue_E2E.ipynb)
 
+### Image Segmentation Using U-Net
+* Segments dogs and cats out of images taken from the Oxford IIT Pet Dataset
+* [Image_Segmentation_Using_U_net.pdf](Image_Segmentation_Using_U_net.pdf) - [.ipynb](Image_Segmentation_Using_U_net.ipynb)
+
 ### Live Demo of Blender Chatbot using the RoBERTa Transformer
 * I setup this demo with a modestly improved UI on Google Cloud using Docker
 * See a Blenderbot [example conversation](sample-blender-conversation.png)
-* Try it out at: https://blenderbot-wg5fqcbcta-uw.a.run.app (Can take 30 seconds for Google Cloud to load docker image in and startup) 
+* Try it out at: https://blenderbot-wg5fqcbcta-uw.a.run.app (Can take 30 seconds for Google Cloud to load docker image in and startup and you may need to try a second time) 
 * Note, this demo uses the 90 million parameter small model. The much larger 2.7 billion and 9.4 billion parameters models will produce better conversations and can be run on more expensive hardware.
 * Here's the paper on BlenderBot developed by the Facebook AI team: https://arxiv.org/pdf/2004.13637.pdf* For comparison here's Mitsuki bot from Pandorabots which I did not find as good: https://https://chat.kuki.ai/
