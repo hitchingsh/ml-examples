@@ -47,6 +47,12 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * Segments dogs and cats out of images taken from the Oxford IIT Pet Dataset
 * [Image_Segmentation_Using_U-Net.pdf](Image_Segmentation_Using_U-Net.pdf) - [.ipynb](Image_Segmentation_Using_U-Net.ipynb)
 
+### Image Object Detection and Instance Segmentation 
+* Compares Mask R-CNN using ResNet V2 and EfficientDet D7 for Object Detection
+* Uses Mask R-CNN for Instance Segmentation
+* Uses Tensorflow 2 with TFHub
+* [Object_Detection_inference_Using_TF2_and_TFHub.pdf](Object_Detection_inference_Using_TF2_and_TFHub.pdf) - [.ipynb](Object_Detection_inference_Using_TF2_and_TFHub.ipynb)
+
 ### Live Demo of Blender Chatbot using the RoBERTa Transformer
 * I setup this demo with a modestly improved UI on Google Cloud using Docker
 * See a Blenderbot [example conversation](sample-blender-conversation.png)
