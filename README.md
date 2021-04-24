@@ -49,7 +49,7 @@ These are Machine Learning examples I have created or adapted to give you a bett
 
 ### Image Object Detection and Instance Segmentation 
 * Compares Mask R-CNN using ResNet V2 and EfficientDet D7 for Object Detection for Object Detection
-* Check out this [Mask R-CNN Instance Segmentation and Object Detection Video](https://drive.google.com/file/d/1M9OqeQGM_KzHUGdlOYmcDup-jh0N-Zms/view?usp=sharing)
+* Created this [Mask R-CNN Instance Segmentation and Object Detection Video](https://drive.google.com/file/d/1M9OqeQGM_KzHUGdlOYmcDup-jh0N-Zms/view?usp=sharing)
 * Uses Tensorflow 2 with TFHub
 * [Object_Detection_Inference_Using_TF2_and_TFHub.pdf](Object_Detection_Inference_Using_TF2_and_TFHub.pdf) - [.ipynb](Object_Detection_Inference_Using_TF2_and_TFHub.ipynb)
 
