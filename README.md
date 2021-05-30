@@ -60,4 +60,5 @@ These are Machine Learning examples I have created or adapted to give you a bett
 * See a Blenderbot [example conversation](sample-blender-conversation.png)
 * Try it out at: https://blenderbot-wg5fqcbcta-uw.a.run.app (Can take 30 seconds for Google Cloud to load docker image in and startup and you may need to try a second time) 
 * Note, this demo uses the 90 million parameter small model. The much larger 2.7 billion and 9.4 billion parameters models will produce better conversations and can be run on more expensive hardware.
+
 * Here's the paper on BlenderBot developed by the Facebook AI team: https://arxiv.org/pdf/2004.13637.pdf* For comparison here's Mitsuki bot from Pandorabots which I did not find as good: https://https://chat.kuki.ai/
