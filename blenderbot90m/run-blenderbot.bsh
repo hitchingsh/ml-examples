@@ -11,7 +11,7 @@ source blenderbot90m/bin/activate
 echo "Running browser_chat/run.py"
 python ./blenderbot90m/lib/python3.7/site-packages/parlai/chat_service/services/browser_chat/run.py --config-path ./config.yml --port 8000 &
 sleep 10 
-echo "30 seconds should have passed"
+echo "10 seconds should have passed"
 echo "Running client.py"
 nice python ./client.py --port 8000
 sleep 2 

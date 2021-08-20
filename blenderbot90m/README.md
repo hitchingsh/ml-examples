@@ -46,9 +46,9 @@ https://cloud.google.com/run/docs/quickstarts/build-and-deploy
 gcloud auth configure-docker
 
 # Login to docker
-docker login -u imagical -p SchN@w4PZ
+docker login -u imagical -p XXXXXXXX 
 
-docker build -t blenderbot90m .
+docker build -t blenderbot90m . 
 
 docker run -p 8080:8080 blenderbot90m
 
