@@ -1,0 +1,8 @@
+containerd
+tensorboard
+huggingface-hub==0.0.12
+requests
+transformers==4.9.0
+fairseq
+websocket
+parlai
